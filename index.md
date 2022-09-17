@@ -2,13 +2,13 @@
 
 [![TITLE](./res/title.png)](/)
 
-===&nbsp;&nbsp;現実に捧げる壮大な叙事詩&nbsp;&nbsp;===
+===<br>現実に捧げる壮大な叙事詩<br>===
 
-===&nbsp;&nbsp;ブラックポットアカデミーの閉鎖的な学校生活&nbsp;&nbsp;===
+===<br>ブラックポットアカデミーの閉鎖的な学校生活<br>===
 
-===&nbsp;&nbsp;ここでは、COVID-19のもとで生命と直接対峙しています&nbsp;&nbsp;===
+===<br>ここでは、COVID-19のもとで生命と直接対峙しています<br>===
 
-**===&nbsp;&nbsp;2022、予約販売中&nbsp;&nbsp;===**
+  ===<br><b>2022、予約販売中</b><br>===
 
 <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-square-1" width="84" height="84" viewBox="0 0 24 24" stroke-width="1.5" stroke="#000000" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
