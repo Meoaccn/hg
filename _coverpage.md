@@ -10,6 +10,8 @@
 
 ## COMMING SOON
 
+[游玩Demo](https://hg.meo.ac.cn/)
+
 [了解更多](/index.md)
 
 ![bg](./res/bg.jpg)
